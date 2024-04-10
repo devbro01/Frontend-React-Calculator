@@ -1,12 +1,15 @@
-# Frontend-React-Calculator
+# Frontend-React-Calculator # 
 
 I create calculator app with react (JavaScript framework)
 
 ## Description
 
 I do this project with react hooks (State)
-
 Simply it calculate result with (eval)
+
+## REQUIREMENT
+
+You only need node js and command line too
 
 ## USAGE
 
